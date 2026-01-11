@@ -1,0 +1,5 @@
+User text: Build an assistant that explains UI screenshots.
+
+Image caption: A complex analytics dashboard with multiple charts, filters, and a date range selector.
+
+The system should read the caption and infer what the user can do on the screen.
